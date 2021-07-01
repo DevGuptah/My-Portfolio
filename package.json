@@ -1,0 +1,14 @@
+{
+  "name": "myporto",
+  "version": "1.0.0",
+  "description": "Website to showcase my skills",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Rajendra Guptha",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
